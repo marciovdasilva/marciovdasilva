@@ -33,6 +33,5 @@
   <a href = "mailto:marciov.dasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/m%C3%A1rcio-da-silva-990669118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/marciovdasilva/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/marciovdasilva/marciovdasilva/blob/output/github-contribution-grid-snake.svg) 
 </div>
