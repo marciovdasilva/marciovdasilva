@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Márcio V Da Silva👋
 
-- 🔭 Atualmente estou trabalhando em com Progress 4GL
-- 🌱  Atualmente estou estudando Javascript
+- 🔭 Atualmente estou trabalhando na Aliare(https://www.aliare.co/)
+- com desenvolvedor Progress 4GL
+- 🌱  Atualmente estou estudando ...
 
 <!---
 - 👯 Estou procurando colaborar em ...
