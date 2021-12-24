@@ -20,7 +20,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="MVS-pr" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/14885453661551942137-512.png">
-  <img align="center" alt="MVS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="MVS-Ts" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <!--<img align="center" alt="MVS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MVS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MVS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
